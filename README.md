@@ -27,6 +27,6 @@ Or via docker:
 docker-compose.yml up
 ```
 
-##Other infomation
+## Other infomation
 This api provides openApi documentation: [localhost:8080/swagger-ui](localhost:8080/swagger-ui).
 Default profile provides H2 in-memory database: [localhost:8080/h2-console](localhost:8080/h2-console).
